@@ -1,2 +1,2 @@
 # html-portfolio
-In the Project, iam very excited to share to first html portfolio projrct.
+This is just the beginning of my journey into web development. I'm excited to keep learning, growing, and building. 
